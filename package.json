@@ -4,6 +4,10 @@
   "private": true,
   "type": "module",
   "description": "A parallel conversation in the DSH right sidebar.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MinecaptainS/Chat-Panel-of-Deepseek-Harness.git"
+  },
   "exports": {
     ".": "./index.js",
     "./client": "./client.js",

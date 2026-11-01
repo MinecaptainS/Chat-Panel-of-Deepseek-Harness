@@ -1,4 +1,4 @@
-# Side Chat
+# Side Chat — Chat Panel for DeepSeek Harness
 
 A persistent DSH Web plugin that puts a second, parallel conversation in the right sidebar.
 
