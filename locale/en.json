@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Side Chat",
+    "description": "Opens a parallel conversation beside the main thread in the right sidebar, with its own context and composer."
+  }
+}
